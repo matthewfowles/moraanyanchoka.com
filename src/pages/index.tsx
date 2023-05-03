@@ -116,7 +116,7 @@ const IndexPage = () => {
             Moraa Nyanchoka
           </Typography>
           <Typography align="center" variant="body" as="h3">
-            (She / Her)
+            ( She / Her )
           </Typography>
           <Typography align="center" variant="heading2" as="h2">
             Growth Marketing, Brand Specialist & Entrepreneur

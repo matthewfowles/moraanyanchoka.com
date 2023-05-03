@@ -12,10 +12,10 @@ export const { styled, css, getCssText, globalCss, createTheme } =
         body: sizing(16),
       },
       fontWeights: {
-        heading: 500,
+        heading: 300,
         subHeading: 300,
         link: 300,
-        body: 400,
+        body: 300,
       },
       fonts: {
         heading: `"Quicksand", sans-serif`,

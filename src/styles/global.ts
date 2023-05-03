@@ -13,7 +13,7 @@ export const globalStyles = globalCss({
   },
 
   body: {
-    fontFamily: '"Teko", sans-serif',
+    fontFamily: `"Quicksand", sans-serif`,
     color: "$textColor",
     textAlign: "center",
     margin: 0,
